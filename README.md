@@ -25,6 +25,6 @@ The contribution can be summarized as follows:
 
 
 
-![SAITS Model](https://github.com/NoakLiu/CRRT-Medical-Treatment-Prediction-by-Applying-Reinforcement-Learning-Methods/blob/main/SAITS.png)
+![SAITS Model](https://github.com/NoakLiu/CRRT-Medical-Treatment-Prediction-by-Applying-Reinforcement-Learning-Methods/blob/main/SAITS.png\#pic_center)
 
-![CTRL Model](https://github.com/NoakLiu/CRRT-Medical-Treatment-Prediction-by-Applying-Reinforcement-Learning-Methods/blob/main/CTRL.png)
+![CTRL Model](https://github.com/NoakLiu/CRRT-Medical-Treatment-Prediction-by-Applying-Reinforcement-Learning-Methods/blob/main/CTRL.png\#pic_center)
