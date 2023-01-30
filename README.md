@@ -22,3 +22,9 @@ The contribution can be summarized as follows:
    ​	3.2.3 Bad Action Reward Decreasing
 
    ​	3.2.4 Vital Sign Group Reward
+
+
+
+![SAITS Model](https://github.com/NoakLiu/CRRT-Medical-Treatment-Prediction-by-Applying-Reinforcement-Learning-Methods/blob/main/SAITS.png)
+
+![CTRL Model](https://github.com/NoakLiu/CRRT-Medical-Treatment-Prediction-by-Applying-Reinforcement-Learning-Methods/blob/main/CTRL.png)
