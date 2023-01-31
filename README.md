@@ -11,7 +11,7 @@ The contribution can be summarized as follows:
 
    3.1 LSTM+Conv model
 
-   3.2 ”CTRL“ Self Defined Model
+   3.2 **”CTRL“ Self Defined Model**
 
    ​	3.2.1 UCB
 
