@@ -3,11 +3,11 @@ This is a research project when I worked as an internship in by Tsinghua Univers
 
 The contribution can be summarized as follows:
 
-1. I extracted data by using PostgreSQL from MIMIC IV.
+1. We extracted data by using PostgreSQL from MIMIC IV.
 
-2. I realized the data interpolation by using the SAITS model.
+2. We realized the data interpolation by using the SAITS model.
 
-3. I build two prediction model for CRRT treatment:
+3. We build two prediction model for CRRT treatment:
 
    3.1 LSTM+Conv model
 
