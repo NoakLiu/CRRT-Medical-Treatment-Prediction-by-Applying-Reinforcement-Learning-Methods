@@ -1,5 +1,5 @@
 # CRRT-Medical-Treatment-Prediction-by-Applying-Reinforcement-Learning-Methods
-This is a research project I worked as an internship in by Tsinghua University, cooperated withPeking University People's Hospital.
+This is a research project when I worked as an internship in by Tsinghua University, cooperated withPeking University People's Hospital.
 
 The contribution can be summarized as follows:
 
